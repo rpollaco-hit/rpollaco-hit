@@ -1,132 +1,112 @@
+<!-- Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Anderson%20Marcondes%20Santana&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 # Hi, I'm Anderson 👋
 
-I’m a **Senior Business Analyst and Process & Operations Consultant** with more than **20 years of experience** in banking, consulting, and digital transformation projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Business+Analyst;Digital+Transformation+Consultant;Technology+Enthusiast;Building+Real+World+Solutions)](https://git.io/typing-svg)
 
-Currently, I’m transitioning to a **hybrid Business + Technology role**, strengthening my **full-stack development skills** and building **real-world applications integrating APIs, data, and automation**.
+Senior **Business Analyst and Process & Operations Consultant** with more than **20 years of experience** in banking, consulting and digital transformation.
+
+Currently transitioning to a **Business + Technology role**, strengthening **Full-Stack Development skills** and building real-world solutions integrating APIs, data and automation.
 
 ---
 
-# 🚀 What I do
+# 🚀 What I Do
 
-- Business Analysis and Digital Transformation
-- Requirements and Stakeholder Management
-- Process Optimization and Continuous Improvement
-- Agile delivery and product support
-- Data-driven decision making
+• Business Analysis  
+• Digital Transformation  
+• Process Optimization  
+• Agile delivery  
+• Data-driven decision making  
 
 ---
 
 # 💻 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,sql,git,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,sql,git,github"/>
 </p>
 
-✔️ Learning and applying:
+Currently learning and applying:
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- SQL and databases
-- API integration
-- Git & GitHub
-- Front-end and back-end fundamentals
+- HTML / CSS / JavaScript  
+- Node.js  
+- SQL  
+- API integration  
+- Git & GitHub  
 
 ---
 
-# 🌟 Featured Project
+# 🌟 Featured Projects
 
-## 🌍 Currency Converter (Production Architecture)
+### 🌍 Currency Converter
+Production-style currency converter integrating financial APIs.
 
-A **real-world currency converter application** built with **Vanilla JavaScript**, integrating financial APIs and performance strategies.
+Technologies  
+HTML • CSS • JavaScript • APIs
 
-### Key features
+---
 
-- Real-time currency conversion  
-- Integration with **OpenExchangeRates API**  
-- Integration with **Brazil Central Bank PTAX API**  
-- Offline fallback using **localStorage cache**  
-- Automatic currency detection based on browser locale  
-- Currency flags rendered using **FlagCDN**
-
-### Architecture Highlights
-
-- Performance-first design
-- Smart fallback logic (**API → Cache → Offline**)
-- Internationalization using **Intl API**
-- Clean documentation and system diagrams
-
-📂 Repository  
-https://github.com/rpollaco-hit/currency-converter
+### 🌎 Map Language Translator
+Interactive world map using APIs to explore languages and translations.
 
 ---
 
 # 📊 Professional Background
 
-- **20+ years at HSBC Bank Brazil**
-  - Operations
-  - Recovery
-  - Process reengineering
+✔ 20+ years at **HSBC Bank Brazil**  
+Operations, recovery and process reengineering.
 
-- **Consulting for 70+ municipalities and 300+ entrepreneurs** through SEBRAE
+✔ Consulting for **70+ municipalities and 300+ entrepreneurs** through **SEBRAE**.
 
-- Business Analyst and Project Manager roles in:
-  - Technology transformation
-  - Process optimization
-  - Digital initiatives
+✔ Business Analyst and Project Manager roles in **technology and transformation initiatives**.
 
-- Experience with **international and cross-functional teams**
+✔ Experience with **international and cross-functional teams**.
 
 ---
 
-# 🌍 Portfolio (Work in progress)
+# 📈 GitHub Stats
 
-🌎 **Map Language Translator**  
-Interactive world map + APIs + translation
+![Stats](https://github-readme-stats-mu-woad-61.vercel.app/api?username=rpollaco-hit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-📦 **Logistics and Dispatching Tools**  
-Cost analysis, dashboards, and digital solutions
+![Top Languages](https://github-readme-stats-mu-woad-61.vercel.app/api/top-langs/?username=rpollaco-hit&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-# 🎯 Career Goals
-
-I’m looking for **international and remote opportunities** in:
-
-- Business Analysis
-- Digital Transformation
-- Technology Consulting
-- Product and Operations
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rpollaco-hit&theme=tokyonight)
 
 ---
 
-# 🌎 About me
+# 📊 Activity Graph
 
-- Based in Brazil, open to **global relocation**
-- Portuguese (Native)
-- English (C1)
-- Spanish (Intermediate)
-- French (Intermediate)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rpollaco-hit&theme=tokyo-night)
 
-Passionate about **technology, innovation, travel, and continuous learning**.
+---
+
+# 🌎 About Me
+
+• Based in Brazil  
+• Open to global relocation  
+
+Languages
+
+Portuguese (Native)  
+English (C1)  
+Spanish (Intermediate)  
+French (Intermediate)
+
+Passionate about **technology, innovation, travel and continuous learning**.
 
 ---
 
 # 📬 Contact
 
 LinkedIn  
-https://linkedin.com/in/andersonmarcondessantana  
+https://linkedin.com/in/andersonmarcondessantana
 
 Email  
 ams.cork2024@gmail.com
 
 ---
 
-# 📈 GitHub Stats
-
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpollaco-hit&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpollaco-hit&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rpollaco-hit)
+⭐ Feel free to connect or collaborate.
