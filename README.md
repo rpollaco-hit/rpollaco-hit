@@ -78,8 +78,6 @@ https://github.com/rpollaco-hit/currency-converter
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 ![Stats](https://github-readme-stats-mu-woad-61.vercel.app/api?username=rpollaco-hit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats-mu-woad-61.vercel.app/api/top-langs/?username=rpollaco-hit&layout=compact&theme=tokyonight&hide_border=true)
@@ -90,13 +88,9 @@ https://github.com/rpollaco-hit/currency-converter
 
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rpollaco-hit&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ------------------------------------------------------------------------
-
-## 🐍 Contribution Graph
 
 ## 🐍 Contribution Graph
 
