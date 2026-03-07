@@ -1,91 +1,72 @@
 
-# Anderson Marcondes Santana
+# 👋 Anderson Marcondes Santana
 
-### Business Analyst • Functional Consultant • Project Manager • Full‑Stack Learner
+### 🌍 Business Analyst • Functional Consultant • Project Manager • Full‑Stack Learner
 
 Bridging **Business Strategy, Technology, and Digital Transformation** through consulting, analytics, and modern web development.
 
 ---
 
-## 👨‍💼 About Me
+## 🚀 About Me
 
-I am a senior professional with **25+ years of experience** across consulting, banking, project management, and business transformation.
+Senior professional with **25+ years of experience** across consulting, banking, business transformation, and project leadership.
 
-My career combines **business strategy, financial services, innovation programs, and technology projects**, including system development initiatives, digital transformation, and entrepreneur mentoring.
+My background combines **business strategy, financial services, innovation programs, and technology projects**. I have led teams, supported entrepreneurs, and worked with digital initiatives and system development projects.
 
-Currently expanding my portfolio with **Full‑Stack development projects and GitHub‑based technical work**, focusing on building practical digital solutions.
+Currently expanding my portfolio with **Full‑Stack development projects** and building technical solutions using **modern web technologies**.
 
-**Key highlights:**
+### Highlights
 
-- 25+ years of professional experience  
-- Former manager at **HSBC Brazil**  
-- Business consultant for **SEBRAE**, supporting **70+ cities and 300+ entrepreneurs**  
-- Experience coordinating **technology teams and digital projects**  
-- Strong background in **business analysis, strategy, and financial modeling**  
-- Currently developing **portfolio projects in web development**
-
----
-
-## 🧰 Tech & Tools
-
-### Development
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- VS Code
-
-### Business & Analytics
-- Business Analysis
-- Process Modeling
-- Financial Analysis
-- Strategic Planning
-- Digital Transformation
-
-### Tools
-- Excel
-- Power BI
-- Jira
-- Trello
-- Visio
+- 🏦 Former manager at **HSBC Brazil**
+- 📊 Consultant at **SEBRAE**, supporting **70+ cities and 300+ entrepreneurs**
+- 👥 Experience coordinating **technology teams and digital initiatives**
+- 📈 Strong background in **Business Analysis, Strategy, and Financial Modeling**
+- 💻 Building a **GitHub technical portfolio**
+- 🌎 Open to **international consulting and technology opportunities**
 
 ---
 
-## 🚀 Featured Projects
+# 🧰 Tech Stack
 
-### Currency Converter Web App
+## Development
 
-A web application built with **HTML, CSS and JavaScript** that converts currencies using real exchange rates.
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 
-**Main features:**
+## Business & Analytics
 
-- Currency selection  
-- Exchange rate calculation  
-- Swap currency button  
-- Tooltip guidance for users  
-- Copy converted value  
-- Multilingual UX support  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
-Repository:
+---
+
+# 🌟 Featured Project
+
+## 💱 Currency Converter Web App
+
+Web application developed with **HTML, CSS and JavaScript** to convert currencies using real exchange rates.
+
+### Features
+
+- Currency selection
+- Real‑time exchange rate conversion
+- Swap currency button
+- User guidance tooltips
+- Copy converted value
+- Multilingual UX design
+
+Repository
 
 https://github.com/rpollaco-hit/currency-converter
 
 ---
 
-### Portfolio Projects (In Progress)
-
-Development of new projects focused on:
-
-- API integrations  
-- Interactive web applications  
-- Responsive interfaces  
-- Data visualization  
-
-More projects will be added soon.
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 ![Stats](https://github-readme-stats-mu-woad-61.vercel.app/api?username=rpollaco-hit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -93,39 +74,37 @@ More projects will be added soon.
 ![Top Languages](https://github-readme-stats-mu-woad-61.vercel.app/api/top-langs/?username=rpollaco-hit&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rpollaco-hit&theme=tokyonight)
-
 ---
 
-
-## 🐍 Contributions
+# 🐍 Contributions
 
 ![Snake animation](https://github.com/rpollaco-hit/rpollaco-hit/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🌍 Professional Interests
+# 🌍 Professional Interests
 
-I am particularly interested in opportunities related to:
+I am particularly interested in projects and opportunities related to:
 
-- Business Analysis  
-- Digital Transformation  
-- Technology Consulting  
-- Data‑Driven Strategy  
-- Product Innovation  
-- Full‑Stack Development  
+- Business Analysis
+- Digital Transformation
+- Technology Consulting
+- Data‑Driven Strategy
+- Product Innovation
+- Full‑Stack Development
 
 ---
 
-## 📬 Contact
+# 📬 Connect With Me
 
-**LinkedIn**  
+🌐 LinkedIn  
 https://www.linkedin.com/in/andersonmarcondessantana
 
-**Email**  
+📧 Email  
 ams.cork2024@gmail.com
 
 ---
 
-## 💡 Motto
+# 💡 Motto
 
 > Driven by people, ideas, and results.
