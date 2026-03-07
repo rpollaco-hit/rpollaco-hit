@@ -1,56 +1,32 @@
-```{=html}
-<!-- Advanced GitHub Profile README -->
-```
-```{=html}
-<h1 align="center">
-```
-Hi 👋 I'm Anderson Marcondes Santana
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-Business Analyst • Technology Consultant • Full‑Stack Learner
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-Bridging `<b>`{=html}Business Strategy, Technology and Digital
-Transformation`</b>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=rpollaco-hit&color=blue&style=for-the-badge" />`{=html}
-```{=html}
-</p>
-```
+# 👋 Anderson Marcondes Santana
+
+### Business Analyst • Technology Consultant • Project Manager • Full‑Stack Learner
+
+Bridging **Business Strategy, Technology and Digital Transformation**
+through consulting, analytics and modern web development.
+
+![Visitors](https://komarev.com/ghpvc/?username=rpollaco-hit&color=blue&style=for-the-badge)
 
 ------------------------------------------------------------------------
 
-# 🚀 About Me
+## 🚀 About Me
 
-Senior professional with **25+ years of experience** in:
+Senior professional with **25+ years of experience** across consulting,
+banking, business transformation and project leadership.
 
-• Business Analysis\
-• Technology Consulting\
-• Financial Services\
-• Digital Transformation\
-• Project & Team Leadership
+My career combines **business strategy, financial services, innovation
+programs and technology projects**, including system development
+initiatives and digital transformation.
 
-Career highlights:
+**Highlights**
 
 -   Former **HSBC Brazil manager**
 -   **SEBRAE consultant** supporting **70+ cities and 300+
     entrepreneurs**
 -   Experience coordinating **technology and development teams**
 -   Strong background in **strategy, analytics and financial modeling**
--   Building a **technical GitHub portfolio with real projects**
+-   Currently building a **technical GitHub portfolio with real
+    projects**
 
 Currently expanding my skills in:
 
@@ -59,9 +35,9 @@ Applications**
 
 ------------------------------------------------------------------------
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
-## Development
+### Development
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -69,7 +45,7 @@ Applications**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 
-## Business & Analytics
+### Business & Analytics
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power
@@ -79,91 +55,69 @@ BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi
 
 ------------------------------------------------------------------------
 
-# 🌟 Featured Project
+## 🌟 Featured Project
 
-## 💱 Currency Converter Web App
+### 💱 Currency Converter Web App
 
 Web application built with **HTML, CSS and JavaScript** that converts
-currencies using exchange rate APIs.
+currencies using exchange‑rate APIs.
 
-Features:
+**Features**
 
-• Currency selection\
-• Real‑time conversion\
-• Swap currencies\
-• Tooltips for UX guidance\
-• Copy converted value\
-• Multilingual interface
+-   Currency selection\
+-   Real‑time conversion\
+-   Swap currencies\
+-   Tooltips for UX guidance\
+-   Copy converted value\
+-   Multilingual interface
 
-Repository:
-
+Repository\
 https://github.com/rpollaco-hit/currency-converter
 
 ------------------------------------------------------------------------
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats-mu-woad-61.vercel.app/api?username=rpollaco-hit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165">`{=html}
+## 📊 GitHub Statistics
 
-`<img src="https://github-readme-stats-mu-woad-61.vercel.app/api/top-langs/?username=rpollaco-hit&layout=compact&theme=tokyonight&hide_border=true" height="165">`{=html}
+![Stats](https://github-readme-stats-mu-woad-61.vercel.app/api?username=rpollaco-hit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=rpollaco-hit&theme=tokyonight">`{=html}
+![Top Languages](https://github-readme-stats-mu-woad-61.vercel.app/api/top-langs/?username=rpollaco-hit&layout=compact&theme=tokyonight&hide_border=true)
 
-```{=html}
-</p>
-```
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rpollaco-hit&theme=tokyonight)
 
 ------------------------------------------------------------------------
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=rpollaco-hit&theme=tokyonight&no-frame=true&row=1&column=6">`{=html}
+## 🏆 GitHub Trophies
 
-```{=html}
-</p>
-```
+![Trophies](https://github-profile-trophy.vercel.app/?username=rpollaco-hit&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ------------------------------------------------------------------------
 
-# 🐍 Contribution Graph
+## 🐍 Contribution Graph
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github.com/rpollaco-hit/rpollaco-hit/blob/output/github-contribution-grid-snake.svg">`{=html}
+## 🐍 Contribution Graph
 
-```{=html}
-</p>
-```
+![Snake animation](https://github.com/rpollaco-hit/rpollaco-hit/blob/output/github-contribution-grid-snake.svg)
 
 ------------------------------------------------------------------------
 
-# 🌍 Professional Interests
+## 🌍 Professional Interests
 
 I am interested in opportunities related to:
 
-• Business Analysis\
-• Technology Consulting\
-• Digital Transformation\
-• Data‑Driven Strategy\
-• Product Innovation\
-• Full‑Stack Development
+-   Business Analysis\
+-   Technology Consulting\
+-   Digital Transformation\
+-   Data‑Driven Strategy\
+-   Product Innovation\
+-   Full‑Stack Development
 
 ------------------------------------------------------------------------
 
-# 📜 Certifications
+## 📜 Certifications
 
 *(Coming soon)*
 
@@ -176,16 +130,16 @@ Future certifications planned:
 
 ------------------------------------------------------------------------
 
-# 📬 Connect With Me
+## 📬 Connect With Me
 
-LinkedIn\
+**LinkedIn**\
 https://www.linkedin.com/in/andersonmarcondessantana
 
-Email\
+**Email**\
 ams.cork2024@gmail.com
 
 ------------------------------------------------------------------------
 
-# 💡 Motto
+## 💡 Motto
 
 > Driven by people, ideas and results.
