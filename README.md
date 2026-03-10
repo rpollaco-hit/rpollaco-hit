@@ -1,7 +1,8 @@
 ![Banner](banner-github.png)
 # 👋 Anderson Marcondes Santana
 
-### Business Consultant | Business Analyst | Technology Strategy | Full-Stack Learner
+### Business Consultant | Digital Transformation | Exploring the intersection of people, strategy and technology
+
 
 Bridging **Business Strategy, Technology and Digital Transformation**  
 through consulting, analytics and modern web development.
