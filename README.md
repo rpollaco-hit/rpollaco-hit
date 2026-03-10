@@ -1,3 +1,4 @@
+![Banner](banner-github.png)
 # 👋 Anderson Marcondes Santana
 
 ### Business Consultant | Business Analyst | Technology Strategy | Full-Stack Learner
