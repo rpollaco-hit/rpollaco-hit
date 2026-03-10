@@ -1,41 +1,32 @@
 # 👋 Anderson Marcondes Santana
 
-### Business Analyst • Technology Consultant • Project Manager • Full‑Stack Learner
+### Business Consultant | Business Analyst | Technology Strategy | Full-Stack Learner
 
-Bridging **Business Strategy, Technology and Digital Transformation**
+Bridging **Business Strategy, Technology and Digital Transformation**  
 through consulting, analytics and modern web development.
 
 ![Visitors](https://komarev.com/ghpvc/?username=rpollaco-hit&color=blue&style=for-the-badge)
 
-------------------------------------------------------------------------
+---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Senior professional with **25+ years of experience** across consulting,
-banking, business transformation and project leadership.
+Senior professional with **25+ years of experience** across consulting, banking, digital transformation and project leadership.
 
-My career combines **business strategy, financial services, innovation
-programs and technology projects**, including system development
-initiatives and digital transformation.
+My career combines **business strategy, financial services, innovation programs and technology initiatives**, including system development projects and digital transformation programs.
 
-**Highlights**
+### Key Highlights
 
--   Former **HSBC Brazil manager**
--   **SEBRAE consultant** supporting **70+ cities and 300+
-    entrepreneurs**
--   Experience coordinating **technology and development teams**
--   Strong background in **strategy, analytics and financial modeling**
--   Currently building a **technical GitHub portfolio with real
-    projects**
+• Former **HSBC Brazil manager**  
+• **SEBRAE consultant** supporting **70+ cities and 300+ entrepreneurs**  
+• Experience coordinating **technology and development teams**  
+• Strong background in **strategy, analytics and financial modelling**
 
-Currently expanding my skills in:
+Currently building a **technical GitHub portfolio with real software projects**.
 
-**Full‑Stack Development • APIs • Data Visualization • Web
-Applications**
+---
 
-------------------------------------------------------------------------
-
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
 ### Development
 
@@ -48,35 +39,83 @@ Applications**
 ### Business & Analytics
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power
-BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
-------------------------------------------------------------------------
+---
 
-## 🌟 Featured Project
+# 🌟 Featured Project
 
-### 💱 Currency Converter Web App
+## 💱 Currency Converter Web App
 
-Web application built with **HTML, CSS and JavaScript** that converts
-currencies using exchange‑rate APIs.
+A web application built with **HTML, CSS and JavaScript** that converts currencies using real-time exchange-rate APIs.
 
-**Features**
+### Features
 
--   Currency selection\
--   Real‑time conversion\
--   Swap currencies\
--   Tooltips for UX guidance\
--   Copy converted value\
--   Multilingual interface
+• Currency selection  
+• Real-time conversion  
+• Swap currencies  
+• Tooltips for user guidance  
+• Copy converted values  
+• Multilingual interface
 
-Repository\
+### Repository
+
 https://github.com/rpollaco-hit/currency-converter
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub Statistics
+# 🛠 Current Projects
+
+### ERP Corporate Blueprint
+
+Architecture and domain modelling for a modular ERP system.
+
+### Tourism Innovation Projects
+
+Digital initiatives connecting **technology, tourism and regional development**.
+
+Projects include:
+
+• Rota Gastronômica  
+• Desenvolve Jalapão
+
+---
+
+# 📚 Learning Journey
+
+2025 – Started Full-Stack development journey.
+
+Current focus:
+
+• JavaScript applications  
+• API integration  
+• Web UX improvements  
+• Data visualisation
+
+Next learning goals:
+
+• Node.js  
+• Backend APIs  
+• Cloud deployment
+
+---
+
+# ⚙️ What I Build
+
+Projects focused on combining **business knowledge with practical software tools**.
+
+Examples include:
+
+• Web applications  
+• Business dashboards  
+• Data-driven tools  
+• API integrations  
+• Business-oriented software concepts
+
+---
+
+# 📊 GitHub Statistics
 
 ![Stats](https://github-readme-stats-mu-woad-61.vercel.app/api?username=rpollaco-hit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
