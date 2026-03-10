@@ -24,8 +24,53 @@ My career combines **business strategy, financial services, innovation programs 
 
 Currently building a **technical GitHub portfolio with real software projects**.
 
+## 📊 Professional Snapshot
+
+🏢 **Experience**  
+25+ years in consulting, banking and digital transformation projects
+
+🌍 **Cities Supported**  
+70+ cities supported through consulting and innovation programmes
+
+👨‍💼 **Entrepreneurs Mentored**  
+300+ entrepreneurs trained and supported through development initiatives
+
+👥 **Teams Coordinated**  
+Technology and consulting teams including developers and analysts
+
+💻 **Portfolio Development**  
+Building a portfolio of web applications and digital tools
+
 ---
 
+## 🧠 Competency Overview
+
+📈 **Business Strategy & Consulting**  
+Business Analysis • Strategic Planning • Innovation Programmes • Digital Transformation
+
+⚙️ **Technology Development**  
+HTML • CSS • JavaScript • Git • GitHub • Web Applications • API Integration
+
+📊 **Data & Analytics**  
+Excel • Power BI • KPI Dashboards • Data Visualisation • Financial Modelling
+
+🧩 **Architecture & Processes**  
+Process Mapping • System Modelling • ERP Architecture • Business Process Design
+
+
+---
+```text
+## 📊 Skill Radar
+
+Business Strategy        ██████████
+Business Analysis        ██████████
+Digital Transformation   █████████
+System Architecture      ████████
+Data Analytics           ███████
+Technology Development   ██████
+Web Applications         █████
+```
+---
 # 🧠 Tech Stack
 
 ### Development
@@ -36,12 +81,16 @@ Currently building a **technical GitHub portfolio with real software projects**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 
-### Business & Analytics
+### Data & Business Tools
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 
+### Project & Process Tools
+![Visio](https://img.shields.io/badge/Visio-blue?style=for-the-badge&logo=microsoft-visio)
+![MS Project](https://img.shields.io/badge/MS_Project-green?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ---
 
 # 🌟 Featured Project
